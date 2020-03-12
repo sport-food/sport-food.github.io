@@ -401,7 +401,7 @@ li {
   top: 80px !important;
   text-align: center !important;
 }
-@media screen and (min-width: 1380px) and (max-width: 1450px) {
+@media screen and (min-width: 1025px) and (max-width: 1450px) {
   img {
     max-width: 100% !important;
     height: auto !important;
